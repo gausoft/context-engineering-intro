@@ -32,7 +32,7 @@
     "prettier": "^3.6.2",
     "typescript": "^5.8.3",
     "vi-fetch": "^0.8.0",
-    "vitest": "^4.1.10",
+    "vitest": "^4.1.11",
     "wrangler": "^4.107.0"
   }
 }
